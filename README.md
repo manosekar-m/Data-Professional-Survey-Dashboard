@@ -22,4 +22,12 @@ The dataset was taken from a **public Data Professional Survey**, which includes
 - **Power BI** – For data cleaning, modeling, and visualization
 - **GitHub** – For version control and sharing the project
 
+## 🚀 How to Use
+
+1. Clone this repository.
+2. Open the `.pbix` file in Power BI Desktop.
+3. Explore the visualizations and interact with filters to discover insights.
+
+```bash
+git clone https://github.com/manosekar-m/Data-Professional-Survey-Dashboard.git
 
