@@ -15,8 +15,6 @@ The dashboard answers questions like:
 
 The dataset was taken from a **public Data Professional Survey**, which includes responses from data scientists, analysts, engineers, and other related roles.
 
-> 📌 If the dataset is publicly available (e.g., from Kaggle or a link), include the source here:
->
 > **Source:** [Data Professional Survey on Kaggle]
 
 ## 🛠 Tools Used
